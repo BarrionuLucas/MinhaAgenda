@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="imgs">
+        <item>@mipmap/lucas</item>
+        <item>@mipmap/rafael</item>
+        <item>@mipmap/diego</item>
+        <item>@mipmap/monaliza</item>
+        <item>@mipmap/nanci</item>
+    </integer-array>
+</resources>

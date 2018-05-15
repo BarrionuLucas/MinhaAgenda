@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "434365469019",
+    "firebase_url": "https://minha-agenda-fcfb0.firebaseio.com",
+    "project_id": "minha-agenda-fcfb0",
+    "storage_bucket": "minha-agenda-fcfb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434365469019:android:1cdb64f7ff1ff5d6",
+        "android_client_info": {
+          "package_name": "br.com.barrionuevo.minhaagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434365469019-gbeqqsf4pka00lk6jv1jticg3d72f2ud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.barrionuevo.minhaagenda",
+            "certificate_hash": "d811585a9523c192ec5dab89c53a010f0d74fd70"
+          }
+        },
+        {
+          "client_id": "434365469019-uqgftmrlrs28o5n42u2u29i4426kq6hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd-VdWpQOQ1Vk4FmK90SfwGM0O8scHxFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434365469019-uqgftmrlrs28o5n42u2u29i4426kq6hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
